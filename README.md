@@ -11,6 +11,12 @@ To build a reinforcement learning model that autonomously navigates a racetrack 
 | July 2023 | BreadCentric Speedway       | 324 / 2362 | 108 / 819  | 187 / 1330        | 03:23.884  | 2          |
 | August 2023 | Rogue Raceway             | 607 / 2645 | 244 / 876  | 339 / 1293        | 04:21.846  | 0          |
 
+## 🎥 Competition Videos
+
+  - 📹 **July 2023 Round:** [![July 2023 Race](https://img.shields.io/badge/Watch%20on-YouTube-red?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/iY35sESrpXA)
+  - 📹 **August 2023 Round:** [![August 2023 Race](https://img.shields.io/badge/Watch%20on-YouTube-red?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/TKkHB2QQ3I0)
+
+
 ## 🧠 Key Features
 - 🧪 Trained reinforcement learning models using AWS SageMaker and RoboMaker simulation.
 - 🧩 Custom reward functions for different track conditions.
